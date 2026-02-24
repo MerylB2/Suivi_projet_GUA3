@@ -7,9 +7,9 @@
 
 EventFlow est une plateforme web et mobile de gestion d'événements qui permet à n'importe qui (particulier ou pro) de créer un mini-site d'événement personnalisé grâce à l'IA, gérer ses invités avec des liens uniques, et obtenir un rapport analytique automatique après l'événement. Le tout sans compétences techniques.
 
-**Stack :** React Native (Expo) + Django REST Framework + PostgreSQL + Redis + Claude API + modules ML Python.
+**Stack :** React Native (Expo) + Django REST Framework + PostgreSQL + Redis + Claude/ChatGPT API + modules ML Python.
 
-**Deadline :** Juin 2025 — soit environ 4 mois de développement effectif restants.
+**Deadline :** Juin 2026 — soit environ 4 mois de développement effectif restants.
 
 ---
 
