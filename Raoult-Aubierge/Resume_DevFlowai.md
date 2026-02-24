@@ -11,7 +11,7 @@ DevFlow AI est une plateforme SaaS qui transforme automatiquement des designs Fi
 
 **Atout majeur du binôme :** Raoult est designer professionnel avec 3 ans d'expérience et a déjà construit un agent IA Figma vers HTML/CSS via n8n + OpenAI. Ce n'est pas un projet théorique — il y a une vraie base technique existante.
 
-**Deadline :** Soutenance RNCP Juin 2025 — 16 semaines à partir de février 2025.
+**Deadline :** Soutenance RNCP Juin 2026 — 16 semaines à partir de février 2026.
 
 ---
 
